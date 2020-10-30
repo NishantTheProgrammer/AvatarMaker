@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AvatarMaker/static/css/main.50969194.chunk.css",
+    "main.js": "/AvatarMaker/static/js/main.a3b8b833.chunk.js",
+    "main.js.map": "/AvatarMaker/static/js/main.a3b8b833.chunk.js.map",
+    "runtime-main.js": "/AvatarMaker/static/js/runtime-main.418058dd.js",
+    "runtime-main.js.map": "/AvatarMaker/static/js/runtime-main.418058dd.js.map",
+    "static/js/2.7b358982.chunk.js": "/AvatarMaker/static/js/2.7b358982.chunk.js",
+    "static/js/2.7b358982.chunk.js.map": "/AvatarMaker/static/js/2.7b358982.chunk.js.map",
+    "index.html": "/AvatarMaker/index.html",
+    "precache-manifest.90a3d09586644761d8718d976e36c053.js": "/AvatarMaker/precache-manifest.90a3d09586644761d8718d976e36c053.js",
+    "service-worker.js": "/AvatarMaker/service-worker.js",
+    "static/css/main.50969194.chunk.css.map": "/AvatarMaker/static/css/main.50969194.chunk.css.map",
+    "static/js/2.7b358982.chunk.js.LICENSE.txt": "/AvatarMaker/static/js/2.7b358982.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AvatarMaker/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.418058dd.js",
+    "static/js/2.7b358982.chunk.js",
+    "static/css/main.50969194.chunk.css",
+    "static/js/main.a3b8b833.chunk.js"
+  ]
+}
