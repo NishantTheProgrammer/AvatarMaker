@@ -1,3 +1,37 @@
-#person-body img {
-    height: 250px;
+#person-body {
+    height: 240px;
+    width: 240px;
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+#person-body #structure {
+    height:75px;
+    width: 60px;
+    margin: 0 auto;
+    background-size: cover;
+    background-position: center;
+    transform: translateY(-25px);
+}
+
+.faceEle {
+    position: relative;
+    left: 4.5px;
+}
+
+#glass {
+    top: 20px;
+    width: 47px;
+}
+#mousetach {
+    top: 13px;
+    width: 18px;
+}
+#lip {
+    display: block;
+    margin: 0 auto;
+    top: 6px;
+    width: 14px;
 }
